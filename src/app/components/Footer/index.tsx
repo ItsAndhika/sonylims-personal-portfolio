@@ -41,9 +41,9 @@ export default function Footer() {
 				</nav>
 				<div className="flex flex-col gap-2 ">
 					<h2 className="text-xl font-semibold mb-1">Address</h2>
-					<p>Purworejo, Central Java, Indonesia</p>
-					<p>primanandandhika@gmail.com</p>
-					<p>+6285325046749</p>
+					<p>Citra Garden 3, Kalideres, West Jakarta</p>
+					<p>sonywijayalim@gmail.com</p>
+					<p>+6283873803247</p>
 				</div>
 			</div>
 			<div className="flex flex-col justify-center items-center p-5 gap-3">
