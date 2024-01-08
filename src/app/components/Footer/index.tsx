@@ -9,7 +9,7 @@ export default function Footer() {
 		<footer className="w-full bg-slate-100">
 			<div className="p-5 grid gap-10 mx-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 lg:max-w-3xl xl:max-w-5xl">
 				<div>
-					<h1 className="text-2xl font-bold">Primananda Andhika</h1>
+					<h1 className="text-2xl font-bold">Sony Wijayalim</h1>
 					<p>Junior Web Developer</p>
 				</div>
 				<nav className="flex flex-col gap-2">
