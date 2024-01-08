@@ -35,15 +35,15 @@ export default function Contact() {
 						<div className="flex flex-col gap-2">
 							<div className="flex items-center gap-2">
 								<FaLocationDot size={20} />
-								<p>Purworejo, Central Java, Indonesia</p>
+								<p>Citra Garden 3, Kalideres, West Jakarta</p>
 							</div>
 							<div className="flex items-center gap-2">
 								<MdEmail size={20} />
-								<p>primanandandhika@gmail.com</p>
+								<p>sonywijayalim@gmail.com</p>
 							</div>
 							<div className="flex items-center gap-2">
 								<FaPhoneVolume size={20} />
-								<p>+6285325046749</p>
+								<p>+6283873803247</p>
 							</div>
 						</div>
 						<div className="flex flex-col gap-1">
